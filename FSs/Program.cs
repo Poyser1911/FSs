@@ -14,7 +14,7 @@ namespace FSs
         static void Main(string[] args)
         {
             Console.Title = "";
-            Print.Info("\r \n^7Title: ^3Fake Server Launcher^7\nAuthor: ^3Poyser^7\n\nHow to: ^3Make Changes to config.json to add/edit multiple servers^7 ^2:)\n");
+            Print.Info("\r \n^7Title: ^3Fake Server Launcher^7\nAuthor: ^3Poyser^7\n\nHow to: ^3Make Changes to config.json to add/edit multiple servers^7 ^2:)\n^5CTRL+C ^7to to Unresgister servers and exit.\n");
             FserverManager fM = new FserverManager("config.json");
             fM.Init();
 
