@@ -1,0 +1,52 @@
+[{
+    "Tag": "TestServer",
+    "Port": 28960,
+    "Variables": {
+        "hostname": "^21234",
+        "mapname": "mp_killhouse",
+        "gametype": "dm",
+        "shortversion": 1.7,
+        "sv_maxping": 999,
+        "sv_minping": 0,
+        "pb": 0,
+        "mod": 0,
+        "pswrd": 0,
+        "build": 1337,
+        "pure": 1,
+        "sv_maxclients": 10,
+        "g_humanplayers": 0,
+        "g_compassShowEnemies": 0,
+        "sv_allowAnonymous": 0,
+        "sv_disableClientConsole": 0,
+        "sv_floodprotect": 4,
+        "sv_maxRate": 25000,
+        "sv_privateClients": 0,
+        "clients": 3,
+        "type": 0,
+        "protocol": 6,
+        "challenge": "xxx",
+        "voice": 1,
+        "hw": 1,
+        "od": 1,
+        "hc": 1,
+        "kc": 1,
+        "ff": 0
+    },
+    "PlayersOnline": [
+        {
+            "name": "^1FaZe^7",
+            "ping": 120,
+            "score": 30
+        },
+        {
+            "name": "^2pro^7",
+            "ping": 150,
+            "score": 20
+        },
+        {
+            "name": "^3SiX^7",
+            "ping": 110,
+            "score": 40
+        }
+    ]
+}]
